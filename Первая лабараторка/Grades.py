@@ -22,3 +22,4 @@ elif 90 <= score <= 100:
     print("Очень хорошо (1)")
 else:
     print("Неправильно (0)")
+print ("Hello World, и Имир")
